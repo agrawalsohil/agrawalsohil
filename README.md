@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sohil-agrawal/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://github.com/agrawalsohil"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://agrawalsohil.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
